@@ -6,5 +6,7 @@ public class Java_Demo {
 System.out.println("hello world");
 System.out.println("Hello Word 2");
 int i=0;
+int j=0;
+
     }
 }
