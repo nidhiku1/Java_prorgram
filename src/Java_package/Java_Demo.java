@@ -8,7 +8,9 @@ public class Java_Demo {
         int j = 0;
         public void cleanUp ()
         {
-            System.out.println("New branch");
+            System.out.println("New branch");;
+            System.out.println(" PR raised");;
+
         }
     }
 }
